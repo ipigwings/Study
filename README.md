@@ -1,2 +1,2 @@
 # Study
-This is my study rep
+This is my study rep！
